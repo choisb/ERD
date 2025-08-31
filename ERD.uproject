@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{84FDD951-474D-EE4B-6174-29ABE4322ECA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ERD",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
